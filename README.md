@@ -1,6 +1,6 @@
-# Agus Taufik Rahman — Portfolio
+# Azka Alfaribi — Portfolio
 
-Personal portfolio website of **Agus Taufik Rahman**.
+Personal portfolio website of **Azka Alfaribi**.
 
 A personal space to showcase my background, projects, experience, and the things I'm currently learning while moving from an **Electrical Installation Engineering** background into technology and software.
 
@@ -69,4 +69,4 @@ If you're interested in the design or implementation, feel free to explore the c
 
 ---
 
-**Built by Agus Taufik Rahman — `theoovx`**
+**Built by Azka Alfaribi — `theoovx`**
